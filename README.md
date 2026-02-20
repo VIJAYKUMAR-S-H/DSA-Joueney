@@ -1,4 +1,4 @@
-Day 1: Started my DSA with Python journey 🚀
+Day 1: Started my DSA with Python journey 
 
 - Created repository structure for daily DSA practice
 - Added folders for Arrays, Strings, Hashing, LinkedList, Trees, Graphs, and DP
